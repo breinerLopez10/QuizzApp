@@ -1,4 +1,4 @@
-**¿En qué consiste? 🤔** \n
+**¿En qué consiste? 🤔** \n /n
 QuizApp es una nueva aplicación web que busca mejorar los procesos de estudio 📚 de las personas alrededor del mundo mediante la implementación de metodologías de estudio inteligentes y productivas 🌱.
 
 **¿Cómo funciona? 💡**
