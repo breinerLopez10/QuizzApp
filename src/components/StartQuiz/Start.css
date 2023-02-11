@@ -1,0 +1,104 @@
+
+*{
+    transition: all 0.4s;
+}
+.body{
+background-image: image("logoProp1.png");
+
+}
+
+.buttons_top{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding: 24px;
+    cursor: pointer;
+    
+}
+
+/* 
+.cont_btn_1{}
+
+.cont_btn_2{}
+
+.cont_btn_2{}
+
+.cont_btn_4{} */
+
+.see{
+    background-color: rgba(104, 160, 116, 1); ;
+    border-radius: 0.4rem;
+    margin: right 720px;
+    font-size: 25px;
+    border: none;
+    position: relative;
+    left: -200px;
+}
+
+
+
+.next,.finish,.back{
+    background-color: rgba(104, 160, 116, 1); ;
+    border-radius: 0.4rem;
+    margin-left: 10%;
+    border: none;
+    font-size: 30px;
+}
+
+.content_area{
+justify-content: center;
+border: solid;
+border-color: rgba(104, 160, 116, 1);
+border-radius: 0.7rem;
+
+text-align: center;
+width: 75%;
+height: 250px;
+position: relative;
+left: 170px;
+}
+.area{
+    
+    border-radius: 0.8rem;
+    width: 90%;
+    justify-content: center;
+    text-align: center;   
+}
+
+
+
+.questions{
+    
+    justify-content: center;
+    background-color: #413E3E;	
+    border: solid;
+    width: 75%;
+    border-radius: 0.8rem;
+    text-align: center;
+    height: 320px;
+    border: solid;
+    position: relative;
+    left: 170px;
+    top: 25px;
+}
+
+.cont_btn_1,.cont_btn_2,.cont_btn_3,.cont_btn_4{
+    padding: 1%;
+    margin-top:10px;
+}
+
+.btn_11,.btn_22,.btn_33,.btn_44{
+    width: 90%;
+    height: 40px;
+    background-color: rgba(104, 160, 116, 1); ;
+    border-radius: 0.8rem;
+    color: white;
+}
+
+
+.btn_11:hover,.btn_22:hover,.btn_33:hover,.btn_44:hover,.finish:hover,.next:hover,.back:hover,.see:hover{
+
+    background-color: wheat ;
+
+}
